@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\folder\file\vs projects\kursach\kursach\myform.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  kursach.vcxproj -> C:\Folder\File\VS projects\kursach\Debug\kursach.exe
